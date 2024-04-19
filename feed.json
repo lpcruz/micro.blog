@@ -1,0 +1,27 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Laurence Cruz",
+	"icon": "https://micro.blog/lpcruz/avatar.jpg",
+	"home_page_url": "https://lpcruz.micro.blog/",
+	"feed_url": "https://lpcruz.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://lpcruz.micro.blog/2024/04/19/i-was-recently.html",
+				
+				"content_html": "<p>I was recently introduced to <a href=\"https://obsidian.md/\">obsidian.md</a> for note taking and it&rsquo;s slick. Favorite feature so far is the daily note.</p>\n",
+				"content_text": "I was recently introduced to [obsidian.md](https://obsidian.md/) for note taking and it's slick. Favorite feature so far is the daily note.\n",
+				"date_published": "2024-04-19T18:24:38-04:00",
+				"url": "https://lpcruz.micro.blog/2024/04/19/i-was-recently.html"
+			},
+			{
+				"id": "http://lpcruz.micro.blog/2024/04/13/initial-commit-taking.html",
+				"title": "Initial Commit",
+				"content_html": "<p>👋🏽 Taking my first steps into the micro.blog world, excited to share my thoughts and write along the way.</p>\n",
+				"content_text": "👋🏽 Taking my first steps into the micro.blog world, excited to share my thoughts and write along the way.\n",
+				"date_published": "2024-04-13T17:51:17-04:00",
+				"url": "https://lpcruz.micro.blog/2024/04/13/initial-commit-taking.html",
+				"tags": ["writing"]
+			}
+	]
+}
