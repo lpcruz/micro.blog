@@ -7,8 +7,16 @@
 	"items": [
 		
 			{
-				"id": "http://lpcruz.micro.blog/2024/04/19/i-was-recently.html",
+				"id": "http://lpcruz.micro.blog/2024/04/27/i-started-tracking.html",
 				
+				"content_html": "<p>I started tracking my runs on <a href=\"https://www.strava.com/athletes/21756504\">Strava</a> since 2020. Covid had forced us to stay at home, gyms closed down but I still wanted to maintain my fitness. At some point during the pandemic, running outside seemed to be one of the <em>safer</em> things to do as it was outside, you&rsquo;re still maintaining social distance, etc.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I started tracking my runs on [Strava](https://www.strava.com/athletes/21756504) since 2020. Covid had forced us to stay at home, gyms closed down but I still wanted to maintain my fitness. At some point during the pandemic, running outside seemed to be one of the _safer_ things to do as it was outside, you're still maintaining social distance, etc. \n\n<img src=\"uploads/2024/screenshot-2024-04-27-at-10.10.53pm.png\" width=\"312\" height=\"378\" alt=\"\">\n",
+				"date_published": "2024-04-27T22:22:20-04:00",
+				"url": "https://lpcruz.micro.blog/2024/04/27/i-started-tracking.html"
+			},
+			{
+				"id": "http://lpcruz.micro.blog/2024/04/19/i-was-recently.html",
+				"title": "obsidian",
 				"content_html": "<p>I was recently introduced to <a href=\"https://obsidian.md/\">obsidian.md</a> for note taking and it&rsquo;s slick. Favorite feature so far is the daily note.</p>\n",
 				"content_text": "I was recently introduced to [obsidian.md](https://obsidian.md/) for note taking and it's slick. Favorite feature so far is the daily note.\n",
 				"date_published": "2024-04-19T18:24:38-04:00",
