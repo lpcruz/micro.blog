@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lpcruz.micro.blog/2024/06/07/a-belated-happy.html",
+				
+				"content_html": "<p>A Belated Happy Global Running Day 🌎</p>\n<p>34% of my goal complete for running new miles in 2024</p>\n<p>I spent Global Running Day running on a tread and then doing a 3 mile shakeout with the OTF run club.</p>\n<p>Running has made me addicted to progress.</p>\n<p>Keep going. 💪</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A Belated Happy Global Running Day 🌎\n\n34% of my goal complete for running new miles in 2024\n\nI spent Global Running Day running on a tread and then doing a 3 mile shakeout with the OTF run club.\n\nRunning has made me addicted to progress. \n\nKeep going. 💪\n\n<img src=\"uploads/2024/image.jpg\" width=\"582\" height=\"600\" alt=\"\"><img src=\"uploads/2024/4ecd0efa1a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-07T20:21:03-04:00",
+				"url": "https://lpcruz.micro.blog/2024/06/07/a-belated-happy.html"
+			},
+			{
 				"id": "http://lpcruz.micro.blog/2024/05/10/finding-the-sweet.html",
 				"title": "Striking a Balance: Simplifying Choices for Better DevEx",
 				"content_html": "<p>Software is fleeting and continuously changing so making decisions about tools can be quite the challenge. Ultimately, engineers will tend to have a lot of opinions. This week, my colleague dropped a truth-bomb:</p>\n<blockquote>\n<p>&ldquo;We always underestimate the maintenance required for variations.&rdquo;</p>\n</blockquote>\n<p>There was  a recent work discussion on node test frameworks. We debated the merits of options like the native Node runner, Jest, and Vitest, realizing that too many choices can overwhelm rather than empower developers.</p>\n<p>So, how do we strike a balance? Simplify. Whether it&rsquo;s through a tech radar or a playbook, recommending the most widely used tool or the latest &ldquo;hotness&rdquo; streamlines decision-making without drowning developers in options. Because in the end, being prescriptive isn&rsquo;t about stifling creativity – it&rsquo;s about guiding developers through the maze with clarity.</p>\n",
